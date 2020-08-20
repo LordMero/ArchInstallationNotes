@@ -1,0 +1,5 @@
+Flag, Package, Description
+, lf, "lf file manager"
+, ranger, "ranger file manager"
+, inotify-toos, "scan file system and notifies on changes"
+, brightnessctl, "utility to controll keyboard backlight"
